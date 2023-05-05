@@ -9,8 +9,8 @@ I have indie developed some very cool software products that have been used by h
 - https://praticar.web.app/
 - https://figurinhas.web.app/
 
-You can checkout my blog posts on [DEV Community](https://dev.to/toureholder) or get in touch via [LinkedIn](https://www.linkedin.com/in/tour%C3%A9-holder-63576a10b/) or [Twitter](https://twitter.com/toureholder).
+You can get to know me a little better by [reading some of my blog posts](https://dev.to/toureholder) and [SO contributions](https://stackoverflow.com/users/2551290/tour%c3%a9-holder) and you can get in touch via [LinkedIn](https://www.linkedin.com/in/tour%C3%A9-holder-63576a10b/) or [Twitter](https://twitter.com/toureholder).
 
-When I'm not doing anything related to programming or having fun with my wife and kid, my distractions include calisthenics, and trying to sing, dance and play the guitar.
+When I'm not doing anything related to programming or having fun with my wife and kid, my distractions include calisthenics, **trying** to sing, dance, do capoeira or play the guitar or piano.
 
 
