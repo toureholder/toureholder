@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a full-stack software developer with 7+ years of professional experience working in Agile software teams. Proficient at handling database, server, front-end web, and mobile app work to deliver complete products.
+I'm a full-stack software developer with 9+ years of professional experience working in Agile software teams. Proficient at handling database, server, front-end web, and mobile app work to deliver complete products.
 
 I have indie developed some very cool software products that have been used by hundreds of thousands of people. Here are some of them:
 - https://www.movesdb.com/
